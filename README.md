@@ -13,10 +13,6 @@ It supports the following features : -
 
 Install npm-run-all package *npm install npm-run-all*
 
-Intall python 2.7 
-
-`sudo apt-get update
-sudo apt-get install python2.7`
-
+Intall python 2.7 `sudo apt-get update sudo apt-get install python2.7`
 
 Please run *npm install* to install all dependencies and then run *npm start* to start the web app locally.
