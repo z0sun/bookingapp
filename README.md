@@ -11,4 +11,5 @@ It supports the following features : -
 3. Clicking on the Room links shows the images and details on the rooms.
 4. The preferred room can be booked using the booking button.
 
+Install npm-run-all package *npm install npm-run-all*
 Please run *npm install* to install all dependencies and then run *npm start* to start the web app locally.
