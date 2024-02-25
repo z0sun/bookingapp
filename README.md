@@ -18,4 +18,6 @@ Intall python 2.7 `sudo apt-get update sudo apt-get install python2.7`
 
 node-sass Compatibility: The node-sass package often requires rebuilding for compatibility with your Node.js version. Try running: `npm rebuild node-sass`
 
+Upgrade core-js: The log mentions deprecated versions of core-js. Update it to the latest version. `npm install core-js@latest --save`
+
 Please run `npm install` to install all dependencies and then run `npm start` to start the web app locally.
